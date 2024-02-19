@@ -141,7 +141,7 @@ WHERE prescription.total_claim_count >= 3000;
 
 
 
---6c
+---6c
 
 SELECT
     drug.drug_name,
